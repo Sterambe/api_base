@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Services",
+      "program": "${workspaceFolder}/index.js"
+    }
+  ]
+}
